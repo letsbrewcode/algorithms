@@ -69,7 +69,9 @@ Material for Algorithms and Data Structures
 ### 13. Graphs
  - Understanding Graph Data Structure
  - Graph Implementations
+ - Directed and Undirected Graphs
  - Graph Traversals, BFS and DFS
+ - Detecting Cycles in Graphs
  - Graph Based Algorithms
 ### 14. Divide and Conquer
  - How Does Divide and Conquer Work?
