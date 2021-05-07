@@ -16,7 +16,15 @@ Material for Algorithms and Data Structures
  - Dynamic Programming
  - Tree traversals
  - Graph Traversals
-### 3. Recursion and Backtracking
+### 3. Arrays and Strings
+ - Understanding Arrays Data Structure
+ - Types of Array Problems
+ - Sliding Window Approach
+ - Two Pointer Approach
+### 4. Hashmaps
+ - How do Hashmaps work
+ - Understanding the time and space complexity of Hashmaps
+### 5. Recursion and Backtracking
  - What is Recursion?
  - Guidelines for Writing Recursive Code
  - Base Conditions
@@ -24,9 +32,50 @@ Material for Algorithms and Data Structures
  - Problems: Fibonacci Series, Tower of Hanoi, Strings
  - Backtracking Algorithm
  - Problems: String Permutation, Subset sum, Telephone codes, n-queens problem
-### 4. Arrays and Strings
- - Understanding Arrays Data Structure
- - Types of Array Problems
- - Sliding Window Approach
- - Two Pointer Approach
- - Problems: 
+### 6. Searching and Sorting
+ - Binary Search
+ - Insertion Sort
+ - Merge Sort
+ - Quick Sort
+ - Radix Sort
+ - Comparison of Sorting Algorithms
+### 7. Linked Lists
+ - What is a Linked List?
+ - Linked Lists v/s Arrays
+ - Implementing Linked Lists
+ - General Operaions on Linked Lists
+ - Problems
+### 8. Stacks and Queues
+ - Basics of Stacks and Queues
+ - Implementing Stacks and Queues
+ - Problems
+### 9. Trees
+ - Introduction to Tree Data Structure
+ - Tree Traversal Algorithms
+ - Types of Trees
+ - Tree Problems
+### 10. Binary Search Trees
+ - BST Property
+ - Time Complexity of Operations in BST
+ - BST Problems
+### 11. Binary Heap
+ - Understanding Heap Implementation
+ - Time and Space Complexity of Heap Operations
+ - Heap Based Problems
+### 11. Graphs
+ - Understanding Graph Data Structure
+ - Graph Implementations
+ - Graph Traversals, BFS and DFS
+ - Graph Based Algorithms
+### 12. Divide and Conquer
+ - How Does Divide and Conquer Work?
+ - Problems
+### 13. Greedy Algorithms
+ - Introduction to Greedy Approach
+ - Problems
+### 14. Dynamic Programming
+ - What is Dynamic Programming
+ - Top Down or Memoization Approach
+ - Bottom Up or Dynamic Programming Approach
+ - How to Come Up With DP Algorithm
+ - DP Problems
