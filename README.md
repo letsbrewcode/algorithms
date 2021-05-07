@@ -62,18 +62,22 @@ Material for Algorithms and Data Structures
  - Understanding Heap Implementation
  - Time and Space Complexity of Heap Operations
  - Heap Based Problems
-### 11. Graphs
+### 12. Tries
+ - What are Tries?
+ - Implementing Tries
+ - Problems
+### 13. Graphs
  - Understanding Graph Data Structure
  - Graph Implementations
  - Graph Traversals, BFS and DFS
  - Graph Based Algorithms
-### 12. Divide and Conquer
+### 14. Divide and Conquer
  - How Does Divide and Conquer Work?
  - Problems
-### 13. Greedy Algorithms
+### 15. Greedy Algorithms
  - Introduction to Greedy Approach
  - Problems
-### 14. Dynamic Programming
+### 16. Dynamic Programming
  - What is Dynamic Programming
  - Top Down or Memoization Approach
  - Bottom Up or Dynamic Programming Approach
