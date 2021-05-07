@@ -43,7 +43,7 @@ Material for Algorithms and Data Structures
  - What is a Linked List?
  - Linked Lists v/s Arrays
  - Implementing Linked Lists
- - General Operaions on Linked Lists
+ - General Operations on Linked Lists
  - Problems
 ### 8. Stacks and Queues
  - Basics of Stacks and Queues
