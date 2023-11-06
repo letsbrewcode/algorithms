@@ -2,6 +2,52 @@
 Material for Algorithms and Data Structures
 
 # Syllabus
+
+## Data Structures
+### 1. Arrays and Strings
+ - Understanding Arrays Data Structure
+ - Types of Array Problems
+ - Sliding Window Approach
+ - Two Pointer Approach
+### 2. Hashmaps
+ - How do Hashmaps work
+ - Understanding the time and space complexity of Hashmaps
+### 3. Linked Lists
+ - What is a Linked List?
+ - Linked Lists v/s Arrays
+ - Implementing Linked Lists
+ - General Operations on Linked Lists
+ - Problems
+### 4. Stacks and Queues
+ - Basics of Stacks and Queues
+ - Implementing Stacks and Queues
+ - Problems
+### 5. Trees
+ - Introduction to Tree Data Structure
+ - Tree Traversal Algorithms
+ - Types of Trees
+ - Tree Problems
+### 6. Binary Search Trees
+ - BST Property
+ - Time Complexity of Operations in BST
+ - BST Problems
+### 7. Binary Heap
+ - Understanding Heap Implementation
+ - Time and Space Complexity of Heap Operations
+ - Heap Based Problems
+### 8. Tries
+ - What are Tries?
+ - Implementing Tries
+ - Problems
+### 9. Graphs
+ - Understanding Graph Data Structure
+ - Graph Implementations
+ - Directed and Undirected Graphs
+ - Graph Traversals, BFS and DFS
+ - Detecting Cycles in Graphs
+ - Graph Based Algorithms
+
+## Algorithms
 ### 1. Asymptotic Analysis
  - Understanding Time and Space Complexity
  - How to Analyze Algorithms
@@ -16,15 +62,7 @@ Material for Algorithms and Data Structures
  - Dynamic Programming
  - Tree traversals
  - Graph Traversals
-### 3. Arrays and Strings
- - Understanding Arrays Data Structure
- - Types of Array Problems
- - Sliding Window Approach
- - Two Pointer Approach
-### 4. Hashmaps
- - How do Hashmaps work
- - Understanding the time and space complexity of Hashmaps
-### 5. Recursion and Backtracking
+### 3. Recursion and Backtracking
  - What is Recursion?
  - Guidelines for Writing Recursive Code
  - Base Conditions
@@ -32,54 +70,20 @@ Material for Algorithms and Data Structures
  - Problems: Fibonacci Series, Tower of Hanoi, Strings
  - Backtracking Algorithm
  - Problems: String Permutation, Subset sum, Telephone codes, n-queens problem
-### 6. Searching and Sorting
+### 4. Searching and Sorting
  - Binary Search
  - Insertion Sort
  - Merge Sort
  - Quick Sort
  - Radix Sort
  - Comparison of Sorting Algorithms
-### 7. Linked Lists
- - What is a Linked List?
- - Linked Lists v/s Arrays
- - Implementing Linked Lists
- - General Operations on Linked Lists
- - Problems
-### 8. Stacks and Queues
- - Basics of Stacks and Queues
- - Implementing Stacks and Queues
- - Problems
-### 9. Trees
- - Introduction to Tree Data Structure
- - Tree Traversal Algorithms
- - Types of Trees
- - Tree Problems
-### 10. Binary Search Trees
- - BST Property
- - Time Complexity of Operations in BST
- - BST Problems
-### 11. Binary Heap
- - Understanding Heap Implementation
- - Time and Space Complexity of Heap Operations
- - Heap Based Problems
-### 12. Tries
- - What are Tries?
- - Implementing Tries
- - Problems
-### 13. Graphs
- - Understanding Graph Data Structure
- - Graph Implementations
- - Directed and Undirected Graphs
- - Graph Traversals, BFS and DFS
- - Detecting Cycles in Graphs
- - Graph Based Algorithms
-### 14. Divide and Conquer
+### 5. Divide and Conquer
  - How Does Divide and Conquer Work?
  - Problems
-### 15. Greedy Algorithms
+### 6. Greedy Algorithms
  - Introduction to Greedy Approach
  - Problems
-### 16. Dynamic Programming
+### 7. Dynamic Programming
  - What is Dynamic Programming
  - Top Down or Memoization Approach
  - Bottom Up or Dynamic Programming Approach
